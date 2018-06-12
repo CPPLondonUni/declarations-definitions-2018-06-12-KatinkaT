@@ -1,0 +1,3 @@
+/Users/KaT/Desktop/CPP/DefAndDec/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/KaT/Desktop/CPP/DefAndDec/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/KaT/Desktop/CPP/DefAndDec/cmake-build-debug/CMakeFiles/app.dir

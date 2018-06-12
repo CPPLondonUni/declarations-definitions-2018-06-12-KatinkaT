@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/KaT/Desktop/CPP/DefAndDec/main.cpp
+iostream
+-
+string
+-
+utility.h
+/Users/KaT/Desktop/CPP/DefAndDec/utility.h
+
+/Users/KaT/Desktop/CPP/DefAndDec/utility.cpp
+iostream
+-
+string
+-
+
+/Users/KaT/Desktop/CPP/DefAndDec/utility.h
+string
+-
+
